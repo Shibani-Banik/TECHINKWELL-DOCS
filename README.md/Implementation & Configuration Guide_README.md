@@ -1,13 +1,13 @@
 # SAP SuccessFactors Employee Central  
 ### Implementation & Configuration Guide
 
-This documentation sample demonstrates my experience creating structured implementation documentation for enterprise HR SaaS platforms.
+This documentation demonstrates my experience creating structured implementation documentation for enterprise HR SaaS platforms.
 
 The guide outlines deployment architecture, configuration workflows, and troubleshooting best practices for SAP SuccessFactors Employee Central.
 
 ---
 
-## 📌 Document Scope
+## Document Scope
 
 This guide covers:
 
@@ -20,7 +20,7 @@ This guide covers:
 
 ---
 
-## 🎯 Target Audience
+## Target Audience
 
 - Implementation Consultants  
 - HRIT Teams  
@@ -29,7 +29,7 @@ This guide covers:
 
 ---
 
-## 📂 Documentation Sections
+## Documentation Sections
 
 - [Solution Overview](implementation-guide/overview.md)
 - [System Architecture](implementation-guide/architecture.md)
@@ -40,7 +40,7 @@ This guide covers:
 
 ---
 
-## 🛠 Tools & Methodology
+## Tools & Methodology
 
 - Markdown Documentation  
 - Git-based Version Control  
