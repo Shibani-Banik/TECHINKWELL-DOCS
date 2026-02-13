@@ -1,7 +1,7 @@
 # SAP SuccessFactors Employee Central  
 ### Implementation & Configuration Guide
 
-This documentation demonstrates my experience creating structured implementation documentation for enterprise HR SaaS platforms.
+This documentation demonstrates a structured implementation documentation for enterprise HR SaaS platforms.
 
 The guide outlines deployment architecture, configuration workflows, and troubleshooting best practices for SAP SuccessFactors Employee Central.
 
